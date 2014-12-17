@@ -1,5 +1,6 @@
 ## The purpose of the functions is to calculate and store the inverse
-## values of a matrix
+## values of a matrix (based on the teplate in read.me)
+## Original repo forked from rdpeng
 
 ## Function that creates a matrix and initializes its inverse 
 
